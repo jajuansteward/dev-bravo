@@ -1,1 +1,0 @@
-For the Dev|bravo project, I did restaurants the user want to try in North Alabama.
