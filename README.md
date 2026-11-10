@@ -45,7 +45,7 @@ C:.
             signin.html
 
 
-## tech stack
+### tech stack
  - e.g., vsCode (live server, todo, prettier)
  - HTML (emmet),
  - CSS (normalize, bs5 & bs icons)
@@ -53,7 +53,7 @@ C:.
  - GitHub (repo, readme/markdwon, wiki, issues, GitHub pages)
 
 
- ## project tree
+ ### project tree
  ```
 AUTH ──────────────────┐
                        │
