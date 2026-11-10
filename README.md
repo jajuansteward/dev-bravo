@@ -12,9 +12,16 @@
 - **so that** way they will not be wondering where the best restaurants are at.
 
 ## narrative
-- Well known restaurants in North Alabama
+- Well known restaurants in North Alabama!!
 - There are different restaurants to choose from steakhouses, buffets, and fast food.
 - Are you ready to try the restaurants that will make you full?
+
+### tech stack
+ - e.g., vsCode (live server, todo, prettier)
+ - HTML (emmet),
+ - CSS (normalize, bs5 & bs icons)
+ - js (jQ, jQui)
+ - GitHub (repo, readme/markdwon, wiki, issues, GitHub pages)
 
 ### project directory structure
 ```
@@ -25,8 +32,6 @@ C:.
 │   
 └───assets
     ├───css
-    │       button.css
-    │       scripts.css
     │       styles.css
     │       
     ├───data
@@ -45,16 +50,9 @@ C:.
             signin.html
 
 
-### tech stack
- - e.g., vsCode (live server, todo, prettier)
- - HTML (emmet),
- - CSS (normalize, bs5 & bs icons)
- - js (jQ, jQui)
- - GitHub (repo, readme/markdwon, wiki, issues, GitHub pages)
-
-
- ### project tree
+### project tree
  ```
+
 AUTH ──────────────────┐
                        │
 STATIC JSON ──fetch()──┼──→ APP STATE
@@ -62,3 +60,10 @@ STATIC JSON ──fetch()──┼──→ APP STATE
 USER INPUT ────────────┘   sessionStorage
                                ↓
                               DOM
+
+
+
+
+
+
+ 
