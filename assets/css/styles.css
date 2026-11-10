@@ -1,0 +1,26 @@
+.terminals {
+  background: #000;
+  color: red;
+  font-family: "Courier New", monospace;
+  min-height: 200px;
+  padding: 1rem;
+  border: 2px solid #00ff00;
+  overflow-y: auto;
+}
+
+.terminals p {
+  margin: 0.25rem 0;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
